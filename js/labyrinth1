@@ -1,0 +1,1 @@
+node -e "while(1)process.stdout.write([0x2571,0x2572].map(String.fromCharCode)[Math.round(Math.random())]);"
